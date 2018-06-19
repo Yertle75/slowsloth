@@ -1,5 +1,5 @@
 ## VIM
-.vimrc with my specs
+**vimrc** with my specs
 
 ## Firefox
 
@@ -27,3 +27,5 @@ vim chrome/userChrome.css
   visibility: collapse !important;
 }
 
+## i3
+**i3config** with my specs
