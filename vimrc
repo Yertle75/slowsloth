@@ -1,5 +1,6 @@
 " Classical indent stuff and more
-
+syntax on
+set paste
 set autoindent
 
 " Quick Math abbreviations
