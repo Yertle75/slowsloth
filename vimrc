@@ -3,6 +3,10 @@ syntax on
 set paste
 set autoindent
 
+" Move inside long lines
+nmap j gj
+nmap k gk
+
 " Quick Math abbreviations
 
 iab forall$ ∀
