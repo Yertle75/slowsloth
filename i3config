@@ -1,7 +1,9 @@
 
 set $mod Mod4
+for_window [class="^.*"] border pixel 3
 
-font pango:Deja_Vu Sans Mono 0
+
+font pango:Deja_Vu Sans Mono 10
 
 
 
